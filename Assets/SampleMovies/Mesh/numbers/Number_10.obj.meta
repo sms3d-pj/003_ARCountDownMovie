@@ -3,7 +3,12 @@ guid: 4ef7f9eb295dbd2438a0b821d4bebba2
 ModelImporter:
   serializedVersion: 19300
   internalIDToNameTable: []
-  externalObjects: {}
+  externalObjects:
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: diffuse_Black
+    second: {fileID: 2100000, guid: 5dd95dde7ed174899b20cc0f7f437e83, type: 2}
   materials:
     materialImportMode: 1
     materialName: 0
